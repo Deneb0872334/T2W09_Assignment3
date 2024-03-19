@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "70rvlqyHdjYGJReAWgGxnKuwKRZrIthhvqraOlPbnqNcTagw9Use81Wo4H7HI8EGMJRyg9ZUeu4V+MduCMGJ7w==",
+  "dgSpecHash": "b4mkhhFFObJtJ/jWVG7ba04b/ifx/s+8x3Ovw4llZQMuY5AGLBcM1SxdTwLA3CLnzQFkF5GRoDeVJwben6ozeA==",
   "success": true,
   "projectFilePath": "/Users/Deneb/Documents/Lambton/2024_Winter/C#_[CSD2354]/Weekly/T2W09/T2W09_Assignment3/Assignment3/Assignment3.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/Deneb/.nuget/packages/microsoft.netcore.app.ref/7.0.14/microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "/Users/Deneb/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.14/microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "/Users/Deneb/.nuget/packages/microsoft.netcore.app.host.osx-arm64/7.0.14/microsoft.netcore.app.host.osx-arm64.7.0.14.nupkg.sha512"
+  ],
   "logs": []
 }

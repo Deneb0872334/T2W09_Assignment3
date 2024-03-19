@@ -2,42 +2,23 @@
 
 namespace Assignment3
 {
-    class OOP
+    class Banking
     {
         public static void Main(string[] args)
         {
             // new keyword is for creating a new instance of the class
-            Car testCar = new Car();
+            BankAccount testAccoount01 = new BankAccount("121212");
+            BankAccount testAccoount02 = new BankAccount("343434", 1000);
+            BankAccount testAccoount03 = new BankAccount("565656", BankAccount.Type.Savings);
 
-            Car bmw = new Car("BMW");
-            bmw.CarColor = Car.Color.BLUE;
-            // Speed property is private set
-            //bmw.Speed = 30;
-            PrintCarDetails(bmw);
-            bmw.Accelerate(30);
-            bmw.ReduceSpeed(40);
-            PrintCarDetails(bmw);
+            Console.WriteLine(testAccoount01.ToString());
+            Console.WriteLine(testAccoount02.ToString());
+            Console.WriteLine(testAccoount03.ToString());
 
-            Car porsche = new Car(350, 0, "Porsche", Car.Type.Manual);
-            PrintCarDetails(porsche);
-
-            //Car errorProneCar = new Car(speed: 100, name: "test", type: "Hello");
-            //PrintCarDetails(errorProneCar);
-
-        }
-
-
-        private static void PrintCarDetails(Car car)
-        {
-            Console.WriteLine(
-                $"The car below is created:\n" +
-                $"Max Speed: {car.MaxSpeed}\n" +
-                $"Speed: {car.Speed}\n" +
-                $"Name: {car.Name}\n" +
-                $"Type: {car.CarType}\n" +
-                $"Gas Amout: {car.GasAmount}\n" +
-                $"Tank Size: {car.TankSize}\n\n"
-            );
+            testAccoount01.Deposit(150);
+            testAccoount02.Withdraw(100);
+            Console.WriteLine(testAccoount01.ToString());
+            Console.WriteLine(testAccoount02.ToString());
         }
     }
 }

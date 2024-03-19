@@ -1,0 +1,15 @@
+/Users/Deneb/Documents/Lambton/2024_Winter/C#_[CSD2354]/Weekly/T2W09/T2W09_Assignment3/Assignment3/obj/Debug/net7.0/Assignment3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Deneb/Documents/Lambton/2024_Winter/C#_[CSD2354]/Weekly/T2W09/T2W09_Assignment3/Assignment3/obj/Debug/net7.0/Assignment3.AssemblyInfoInputs.cache
+/Users/Deneb/Documents/Lambton/2024_Winter/C#_[CSD2354]/Weekly/T2W09/T2W09_Assignment3/Assignment3/obj/Debug/net7.0/Assignment3.AssemblyInfo.cs
+/Users/Deneb/Documents/Lambton/2024_Winter/C#_[CSD2354]/Weekly/T2W09/T2W09_Assignment3/Assignment3/obj/Debug/net7.0/Assignment3.csproj.CoreCompileInputs.cache
+/Users/Deneb/Documents/Lambton/2024_Winter/C#_[CSD2354]/Weekly/T2W09/T2W09_Assignment3/Assignment3/bin/Debug/net7.0/Assignment3
+/Users/Deneb/Documents/Lambton/2024_Winter/C#_[CSD2354]/Weekly/T2W09/T2W09_Assignment3/Assignment3/bin/Debug/net7.0/Assignment3.deps.json
+/Users/Deneb/Documents/Lambton/2024_Winter/C#_[CSD2354]/Weekly/T2W09/T2W09_Assignment3/Assignment3/bin/Debug/net7.0/Assignment3.runtimeconfig.json
+/Users/Deneb/Documents/Lambton/2024_Winter/C#_[CSD2354]/Weekly/T2W09/T2W09_Assignment3/Assignment3/bin/Debug/net7.0/Assignment3.dll
+/Users/Deneb/Documents/Lambton/2024_Winter/C#_[CSD2354]/Weekly/T2W09/T2W09_Assignment3/Assignment3/bin/Debug/net7.0/Assignment3.pdb
+/Users/Deneb/Documents/Lambton/2024_Winter/C#_[CSD2354]/Weekly/T2W09/T2W09_Assignment3/Assignment3/obj/Debug/net7.0/Assignment3.dll
+/Users/Deneb/Documents/Lambton/2024_Winter/C#_[CSD2354]/Weekly/T2W09/T2W09_Assignment3/Assignment3/obj/Debug/net7.0/refint/Assignment3.dll
+/Users/Deneb/Documents/Lambton/2024_Winter/C#_[CSD2354]/Weekly/T2W09/T2W09_Assignment3/Assignment3/obj/Debug/net7.0/Assignment3.pdb
+/Users/Deneb/Documents/Lambton/2024_Winter/C#_[CSD2354]/Weekly/T2W09/T2W09_Assignment3/Assignment3/obj/Debug/net7.0/Assignment3.genruntimeconfig.cache
+/Users/Deneb/Documents/Lambton/2024_Winter/C#_[CSD2354]/Weekly/T2W09/T2W09_Assignment3/Assignment3/obj/Debug/net7.0/ref/Assignment3.dll
+/Users/Deneb/Documents/Lambton/2024_Winter/C#_[CSD2354]/Weekly/T2W09/T2W09_Assignment3/Assignment3/obj/Debug/net7.0/Assignment3.sourcelink.json
